@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FyrstaTilraun_Gagnagrunnur_1", "FyrstaTilraun_Gagnagrunnur_1\FyrstaTilraun_Gagnagrunnur_1.csproj", "{30B5AB56-FC30-4EC1-A75D-957EC9F428CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30B5AB56-FC30-4EC1-A75D-957EC9F428CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30B5AB56-FC30-4EC1-A75D-957EC9F428CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30B5AB56-FC30-4EC1-A75D-957EC9F428CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30B5AB56-FC30-4EC1-A75D-957EC9F428CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF90AE0-EEEE-480E-8003-2C1F8781E679}
+	EndGlobalSection
+EndGlobal
